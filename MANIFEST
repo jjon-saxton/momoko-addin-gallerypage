@@ -1,0 +1,14 @@
+[info]
+shortname = "Gallery Page"
+longname = "Gallery Page"
+type = "page"
+description = "A page designed to list images and other media attachments as a section of pages."
+
+[authorization]
+whitelist = "ALL"
+blacklist = "root"
+
+[attribution]
+author = "Jon Saxton"
+email = "cem@tower21studios.com"
+version = "0.1a"
